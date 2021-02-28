@@ -50,3 +50,9 @@
   width: 100%;
   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.4);
 }
+
+@media (min-width: 1025-x) {
+  .movies-list {
+    padding: 20px;
+  }
+}

@@ -48,3 +48,6 @@ input {
   margin-top: -160px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
 }
+
+@media (min-width: 1025-x) {
+}
